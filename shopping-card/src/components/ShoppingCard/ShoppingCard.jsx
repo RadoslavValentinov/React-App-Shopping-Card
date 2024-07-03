@@ -1,6 +1,6 @@
 
-import ShoppingCardForm from '../components/ShoppingCardForm/ShoppingCardForm';
-import ShoppingCardItem from '../components/ShoppingCardItem/ShoppingCardItem';
+import ShoppingCardForm from '../ShoppingCardForm/ShoppingCardForm';
+import ShoppingCardItem from '../ShoppingCardItem/ShoppingCardItem';
 
 function ShoppingCard(){
 
@@ -18,7 +18,7 @@ function ShoppingCard(){
             <ShoppingCardItem />
         </section>
         <div className="shopping-cart__total-price">
-           <h1>Total Price: 0$</h1>
+           <h1>Total Price: 0$</h1>s
         </div>
      </section>
     )
