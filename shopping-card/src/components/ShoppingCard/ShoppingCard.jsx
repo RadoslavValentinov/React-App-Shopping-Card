@@ -1,6 +1,6 @@
 
-import ShoppingCardForm from '../components/ShoppingCardForm/ShoppingCardForm';
-import ShoppingCardItem from '../components/ShoppingCardItem/ShoppingCardItem';
+import ShoppingCardForm from '../src/components/ShoppingCardForm/ShoppingCardForm';
+import ShoppingCardItem from '../src/components/ShoppingCardItem/ShoppingCardItem';
 
 function ShoppingCard(){
 

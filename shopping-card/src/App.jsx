@@ -1,5 +1,5 @@
 import React from 'react';
-import ShoppingCard from '../ShoppingCard/ShoppingCard';
+import ShoppingCard from '../src/components/ShoppingCard/ShoppingCard';
 
 function App() {
 
